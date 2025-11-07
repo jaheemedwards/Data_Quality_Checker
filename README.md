@@ -28,7 +28,7 @@ Try the live app here: [Data Quality Checker App](https://dataqualitycheckerjahe
 
 ## Screenshots
 
-![Main Screenshot](images/data_quality_checker_screenshot.png)
+![Main Screenshot](images/data_quality_checker_screenshot.png)  
 ![Screenshot 1](images/data_quality_checker_1.png)  
 ![Screenshot 2](images/data_quality_checker_2.png)  
 ![Screenshot 3](images/data_quality_checker_3.png)  
