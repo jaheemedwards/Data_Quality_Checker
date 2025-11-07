@@ -23,8 +23,6 @@ Try the live app here: [Data Quality Checker App](https://dataqualitycheckerjahe
 - Export a PDF report containing:
   - Dataset overview
   - Missing values and duplicates
-  - Outliers and cardinality
-  - Recommendations for cleaning and improving data quality
 
 ## Screenshots
 
